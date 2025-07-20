@@ -116,7 +116,8 @@ verilog test_bench
 ![](Output.png)
 
 
- This project is open-source and provided under the MIT License. Contributions are welcome!
+This AXI4 Memory Controller is designed for learning, simulation, and integration into custom SoC designs. Contributions, suggestions, and feedback are welcome.
+
 
 
 
