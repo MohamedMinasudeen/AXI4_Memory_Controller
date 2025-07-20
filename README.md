@@ -111,6 +111,12 @@ verilog test_bench
 ------
 ## Result ;
 
+### Simulation result 
+
+![](Output.png)
+
+
+ This project is open-source and provided under the MIT License. Contributions are welcome!
 
 
 
