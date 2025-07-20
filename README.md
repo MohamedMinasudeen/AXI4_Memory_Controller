@@ -6,6 +6,13 @@ AXI4 (Advanced eXtensible Interface 4) is part of the AMBA protocol family devel
 
 
 ---
+## Modules
+
+- `axi4_memory_controller.v`: Implements an AXI4 slave protocol and interfaces with memory for burst read/write.
+- `simple_memory.v`: Synchronous, word-addressed RAM for simulation/tests.
+- `tb_axi4_memory_controller.v`: Testbench driving write/read bursts and checking data integrity.
+
+----
 ## Key features
 -  **Burst Transfers** — Multi-beat transfers (up to 256 beats supported)
 
